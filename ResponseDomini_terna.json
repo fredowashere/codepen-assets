@@ -1,0 +1,749 @@
+{
+	"payload": [
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Antiriciclaggio",
+			"flusso": "AUI",
+			"jobstreamName": "SUMXWBIGCEDAUI",
+			"flussoDescription": "Movimentazione giornaliera in denaro",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Antiriciclaggio",
+			"flusso": "RCA Rapporti",
+			"jobstreamName": "SUMXWBIMRCAOPE",
+			"flussoDescription": "Produzione file RCAOPE_YYYYMMDD.TXT",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Cessioni VERTI",
+			"jobstreamName": "SUMXWBIGVERCES",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Bonifica Tabelle Anagrafiche",
+			"flusso": "Bonifica Tabelle Anagrafiche",
+			"jobstreamName": "SUMXWBIGSDOPPIA",
+			"flussoDescription": "Bonifica Tabelle Anagrafiche",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Censimento Garanzie",
+			"flusso": "Censimento Garanzie",
+			"jobstreamName": "SUMXWBIGRXGARA",
+			"flussoDescription": "Ricezione esito censimento Garanzie",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Alimentazione ALM",
+			"flusso": "Alimentazione ALM",
+			"jobstreamName": "SUMXWBIMALM",
+			"flussoDescription": "",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Invio flusso fidi",
+			"flusso": "Invio flusso fidi",
+			"jobstreamName": "SUMXWBIGTXFIDI",
+			"flussoDescription": "Invio flusso fidi",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Cessioni COVEA",
+			"jobstreamName": "SUMXWBIGCOVCES",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "L&L - Attivazioni AXA",
+			"jobstreamName": "SUMXWBIMAXALLL",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "GAP - Portafoglio",
+			"jobstreamName": "SUMXWBIMGAPPOR",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Alimentazione SiComunica",
+			"flusso": "Bene",
+			"jobstreamName": "SUMXWBIGBENI",
+			"flussoDescription": "Flusso informativo verso Portale Clienti. Impianto Iniziale e comunicazione giornaliera del differenziale",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Upload ndg comuni a tutta la Banca",
+			"flusso": "Upload ndg comuni a tutta la Banca",
+			"jobstreamName": "SUMXWBIGNDGCOM",
+			"flussoDescription": "Upload ndg comuni a tutta la Banca",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Flusso Saldi",
+			"flusso": "Flusso Saldi",
+			"jobstreamName": "SUMXWBIGRAPP",
+			"flussoDescription": "Processo di popolamento tabelle MILK - non produce  o elabora flussi",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Lettere Diffida",
+			"jobstreamName": "SUMXWBIGNI28LTDI",
+			"flussoDescription": "NIRVANA28 LETTERA DIFFIDA",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Rapporti, Fidi e Garanzie",
+			"flusso": "Chiusura Garanzie Rental",
+			"jobstreamName": "SUMXWBIGESTGARA",
+			"flussoDescription": "Estinzioni Garanzie",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Estinzione anticipata NOBIS",
+			"jobstreamName": "SUMXWBIGNOBEST",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Adempimenti Segnaletici",
+			"flusso": "Ade",
+			"jobstreamName": "SUMXWBIMADE",
+			"flussoDescription": "Flusso Operazioni Fuori conto",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Alimentazione SiComunica",
+			"flusso": "Iscrizioni",
+			"jobstreamName": "SUMXWBIGMAILPOR",
+			"flussoDescription": "File xml con indicazione della mail utilizzata ai fini dell'iscrizione (mail POR)",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Anagrafica SIA",
+			"flusso": "Anagrafica SIA",
+			"jobstreamName": "SUMXWBIGANAGRFTT",
+			"flussoDescription": "Creazione dei flussi Anagrafici Leasing e Rental per SIA",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Flusso Firmatari",
+			"flusso": "Flusso Firmatari",
+			"jobstreamName": "SUMXWBIGTXFIRM",
+			"flussoDescription": "Invio flusso Firmatari",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Garante II",
+			"flusso": "Anagrafiche",
+			"jobstreamName": "SUMXWBIGGARANTE2",
+			"flussoDescription": "Tracciatura operazioni come da normativa",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "PIPPO",
+			"flusso": "PIPPO",
+			"jobstreamName": "SUMXWBIDVGD",
+			"flussoDescription": "Added by composer.",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Addendum Furto o Sinistro parziale.",
+			"jobstreamName": "SUMXWBIGNI24LTAD",
+			"flussoDescription": "Addendum Furto o Sinistro parziale. Template 20585 Rental, 20584 Leasing",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Mail di Benevenuto",
+			"jobstreamName": "SUMXWBIGNI29MAIL",
+			"flussoDescription": "Template 20025, Template 20026",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Lettere a scadenza riscatto e solleciti",
+			"jobstreamName": "SUMXWBIGNI32LTSC",
+			"flussoDescription": "Template 20159 e 20649",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "QDC e Forborne",
+			"flusso": "Sofferenze-Quadrature contabili",
+			"jobstreamName": "SUMXWBIGCNTSYGES",
+			"flussoDescription": "Flusso di controllo per quadrature contabii SYGES",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Rapporti",
+			"flusso": "Rapporti",
+			"jobstreamName": "SUMXWBIGTXRAPINS",
+			"flussoDescription": "Processo di popolamento tabelle MILK",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Estinzione anticipata COVEA",
+			"jobstreamName": "SUMXWBIGCOVEST",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Attivazioni NOBIS",
+			"jobstreamName": "SUMXWBIGNOBATT",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "L&L - Antiriciclaggio",
+			"jobstreamName": "SUMXWBIQAXALLLA",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Controaggiornamento Anagrafico",
+			"flusso": "Anagrafe Soggetti Variazione Massiva",
+			"jobstreamName": "SUMXWBIGFCAANA",
+			"flussoDescription": "Flusso serale di aggiornamento Soggetti inviato da CEDACRI,compreso l'agg. della QdC - DELTA GIORNALIERO",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Segnalazioni Leasing",
+			"flusso": "Indigo",
+			"jobstreamName": "SUMXWBIMVGDCAR",
+			"flussoDescription": "Added by composer.",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Flusso Garanzie",
+			"flusso": "Flusso Garanzie",
+			"jobstreamName": "SUMXWBIGTXGARA",
+			"flussoDescription": "Invio flusso garanzie",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Onboarding Rental Anagrafico",
+			"flusso": "Onboarding Rental Anagrafico",
+			"jobstreamName": "SUMXWBIGINSVAR",
+			"flussoDescription": "Elaborazione file Onboarding Rental INSVAR",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Lettere Sollecito Riscatto",
+			"jobstreamName": "SUMXWBIGNI27LTSO",
+			"flussoDescription": "Template 20235",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "QDC e Forborne, Movimenti",
+			"flusso": "Sofferenze",
+			"jobstreamName": "SUMXWBIGMOVSYGES",
+			"flussoDescription": "Flusso giornaliero di alimentazione delle movimentazioni verso SYGES",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Antiriciclaggio",
+			"flusso": "Movimenti Stornati",
+			"jobstreamName": "SUMXWBISANTIMOV",
+			"flussoDescription": "Stornati Leasing",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "L&L - Portafoglio AXA",
+			"jobstreamName": "SUMXWBIMAXAPLL",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Censimento rapporti",
+			"flusso": "Censimento rapporti",
+			"jobstreamName": "SUMXWBIGRXRAPINS",
+			"flussoDescription": "Ricezione esito censimento rapporti",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Acquisizione Tassi",
+			"flusso": "Acquisizione Tassi",
+			"jobstreamName": "SUMXWBIGACQTAS",
+			"flussoDescription": "Infoprovider B&B Finance per automazione acquisizione tassi",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Alimentazione SAP",
+			"flusso": "Contabilità",
+			"jobstreamName": "SUMXWBIGCNTCOGE",
+			"flussoDescription": "Flusso Contabilita verso SAP (SL23COGE)",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Invia Mail con evidenza jb pianificati e consuntivati",
+			"flusso": "Invia Mail con evidenza jb pianificati e consuntivati",
+			"jobstreamName": "SUMXWBIGJOBLNCH",
+			"flussoDescription": "Invia Mail con evidenza jb pianificati e consuntivati",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "L&L - Cessazioni AXA",
+			"jobstreamName": "SUMXWBIMAXALLLE",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Alimentazione SiComunica",
+			"flusso": "Impianto Iniziale e comunicazione giornaliera del differenziale",
+			"jobstreamName": "SUMXWBIGANAGCTR",
+			"flussoDescription": "Flusso informativo verso Portale Clienti. Impianto Iniziale e comunicazione giornaliera del differenziale",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Amaltea",
+			"flusso": "Amaltea",
+			"jobstreamName": "SUMXWBIGACQAMAL",
+			"flussoDescription": "Acquisizione flusso Amaltea ",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Rapporti, Fidi e Garanzie",
+			"flusso": "Chiusura Garanzie Leasing",
+			"jobstreamName": "SUMXWBIGIMWGARL",
+			"flussoDescription": "Estinzione Garanzie Leasing",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Estinzione anticipata VERTI",
+			"jobstreamName": "SUMXWBIGVEREST",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "L&L - Subentri AXA",
+			"jobstreamName": "SUMXWBIMAXALLLS",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "GAP - Cessazioni",
+			"jobstreamName": "SUMXWBIMGAPEST",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Censimento fidi",
+			"flusso": "Censimento fidi",
+			"jobstreamName": "SUMXWBIGRXFIDI",
+			"flussoDescription": "Ricezione esito censimento fidi",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Eurotax",
+			"flusso": "Eurotax",
+			"jobstreamName": "SUMXWBIGEUROTAX",
+			"flussoDescription": "Esecuzione iornaliera del batch pentaho di estrazione cataloghi Eurotax",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Alimentazione SiComunica",
+			"flusso": "Anagrafica Clienti e Fornitori",
+			"jobstreamName": "SUMXWBIGANACLIFO",
+			"flussoDescription": "Flusso informativo verso Portale Clienti. Impianto Iniziale e comunicazione giornaliera del differenziale",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Amaltea Verticale",
+			"flusso": "Amaltea Verticale",
+			"jobstreamName": "SUMXWBIGAMAVERT",
+			"flussoDescription": "Esecuzione pentaho Amaltea Verticale",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "TEST3",
+			"intefraccia": "TEST",
+			"flusso": "TEST",
+			"jobstreamName": "SUMXWBIGACQAMAL",
+			"flussoDescription": "Acquisizione flusso Amaltea ",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Evoluzione Gestione Incassi",
+			"flusso": "SDD B2B-Core Esito",
+			"jobstreamName": "SUMXWBIGINS_IN",
+			"flussoDescription": "",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Evoluzione Gestione Incassi",
+			"flusso": "SDD B2B-Core",
+			"jobstreamName": "SUMXWBIGSEPASDD",
+			"flussoDescription": "Flusso nuovi inserimenti SDD",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Puma",
+			"flusso": "Indigo",
+			"jobstreamName": "SUMXWBIMPUMAIL",
+			"flussoDescription": "Flusso batch di alimentazione Matrix verso CEDACRI (PUMA) - IndigoLeas",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "QDC e Forborne",
+			"flusso": "Sofferenze - Chiavi SYGES",
+			"jobstreamName": "SUMXWBIGCTTSYGES",
+			"flussoDescription": "Flusso chiave Contratto - SYGES",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Segnalazioni Leasing",
+			"flusso": "Mensile",
+			"jobstreamName": "SUMXWBIMVGD",
+			"flussoDescription": "Added by composer.",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Antiriciclaggio",
+			"flusso": "RCA Anagrafiche",
+			"jobstreamName": "SUMXWBIMRCAANA",
+			"flussoDescription": "Produzione file RCAANA_YYYYMMDD.TXT",
+			"sceltaUtenteAbilitaMonitoraggio": "S"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "Lease & Go-Cessioni NOBIS",
+			"jobstreamName": "SUMXWBIGNOBCES",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "GAP - Subentri",
+			"jobstreamName": "SUMXWBIMAPSUB",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Assicurazioni",
+			"flusso": "GAP - Attivazioni",
+			"jobstreamName": "SUMXWBIMGAPATT",
+			"flussoDescription": "Comunicazione Assicurazioni",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "CEDACRI",
+			"flusso": "Esito Saldi",
+			"jobstreamName": "SUMXWBIGRAPPESI",
+			"flussoDescription": "Upload esito censimento rapporti",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Evoluzione Gestione Incassi",
+			"flusso": "SDD B2B-Core Esito",
+			"jobstreamName": "SUMXWBIGRIDINS",
+			"flussoDescription": "Flusso insoluti",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Lettere Furti/Sinistri",
+			"jobstreamName": "SUMXWBIGNI26LTPR",
+			"flussoDescription": "Prima comunicazione furto/sinistro totale. Template 20653",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Postalizzazione Massiva",
+			"flusso": "Fatture",
+			"jobstreamName": "SUMXWBIGPOSTFATT",
+			"flussoDescription": "Postalizzazione massiva fatture",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "QDC e Forborne",
+			"flusso": "Forborne Esito",
+			"jobstreamName": "SUMXWBIGRXFORCAL",
+			"flussoDescription": "Ritorno da CEDACRI in seguito al calcolo dei parametri forborne",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Rapporti, Fidi e Garanzie",
+			"flusso": "Chiusura Garanzie Rental",
+			"jobstreamName": "SUMXWBIGIMWGARR",
+			"flussoDescription": "Estinzione garanzie MAXIWIN/IMUW",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		},
+		{
+			"folder": "MAXIWIN",
+			"intefraccia": "Rapporti, Fidi e Garanzie",
+			"flusso": "Variazioni e chiusure rapporti",
+			"jobstreamName": "SUMXWBIGIMWRAPL",
+			"flussoDescription": "Flusso con nuovi rapporti stipulati,variaz. e chiusure proped. alla messa in operativo e/o chiusura del Fido associato",
+			"sceltaUtenteAbilitaMonitoraggio": "N"
+		}
+	],
+	"headers": {
+		"headers": {
+			"tech_header": {
+				"id": "tech_header",
+				"applicationCode": "COMO",
+				"correlationId": "0c6ba176-1313-46b7-ba05-b37c3f81d854",
+				"channel": "DSK",
+				"timeStamp": 1674726991145,
+				"workstationId": "3310750561",
+				"clientIpAddress": null,
+				"clientHostname": null
+			},
+			"user_header": {
+				"id": "user_header",
+				"archUser": {
+					"name": "Emanuele",
+					"surname": "Ceci",
+					"emailAddress": "emanuele.ceci@grupposcai.it",
+					"phoneNumber": null,
+					"userId": "ececi",
+					"actualUserId": "ececi",
+					"institute": "ITEC",
+					"userGroups": [
+						{
+							"name": "app.como.users.milk.user.uat",
+							"description": ""
+						},
+						{
+							"name": "atlassian-users",
+							"description": ""
+						},
+						{
+							"name": "app.o365.ssrp",
+							"description": ""
+						},
+						{
+							"name": "localadmin.SDLSASRISK01",
+							"description": ""
+						},
+						{
+							"name": "citrix.DevDeskUsersMCS-External",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.welldone-fbs",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.tws",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.spoint",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.net-svil",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.net-devdesk",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.net-coll",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.eoffice",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.p.changeweb",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.n.sasrisk",
+							"description": ""
+						},
+						{
+							"name": "fsso.ext.n.jde",
+							"description": ""
+						},
+						{
+							"name": "prisma.ext",
+							"description": ""
+						},
+						{
+							"name": "app.rire.users.ratingvali.uat",
+							"description": ""
+						},
+						{
+							"name": "app.rire.users.ratingresp.uat",
+							"description": ""
+						},
+						{
+							"name": "app.rire.users.ratingprop.uat",
+							"description": ""
+						},
+						{
+							"name": "app.rire.users.rating.uat",
+							"description": ""
+						},
+						{
+							"name": "o365.mfa.ifis.onlybrowser",
+							"description": ""
+						},
+						{
+							"name": "Citrix.MFA.O365",
+							"description": ""
+						},
+						{
+							"name": "app.pcaconsole.users.backoffice.uat",
+							"description": ""
+						},
+						{
+							"name": "app.pcaconsole.users.backoffice.sit",
+							"description": ""
+						},
+						{
+							"name": "itdwh10u",
+							"description": ""
+						},
+						{
+							"name": "HueReadersUAT",
+							"description": ""
+						},
+						{
+							"name": "nac.Consulenti",
+							"description": ""
+						},
+						{
+							"name": "app.legalfactory20.admin.test",
+							"description": ""
+						},
+						{
+							"name": "cbox.cm.sit",
+							"description": ""
+						},
+						{
+							"name": "cbox.cm.dev",
+							"description": ""
+						},
+						{
+							"name": "app.legalfactory.process.bi",
+							"description": ""
+						},
+						{
+							"name": "app.legalfactory.admins",
+							"description": ""
+						},
+						{
+							"name": "cbox.cm.uat",
+							"description": ""
+						},
+						{
+							"name": "cbox.npl.dev",
+							"description": ""
+						},
+						{
+							"name": "cbox.npl.sit",
+							"description": ""
+						},
+						{
+							"name": "cbox.npl.uat",
+							"description": ""
+						},
+						{
+							"name": "logreaders.itec",
+							"description": ""
+						},
+						{
+							"name": "consulenti.itecons",
+							"description": ""
+						},
+						{
+							"name": "consulenti.itec",
+							"description": ""
+						}
+					],
+					"userRoles": []
+				}
+			}
+		}
+	}
+}
